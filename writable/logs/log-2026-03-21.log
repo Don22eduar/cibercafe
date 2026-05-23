@@ -1,0 +1,323 @@
+CRITICAL - 2026-03-21 14:34:55 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 13.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:34:56 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 13.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:39:53 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 13.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:39:54 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 13.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:45:23 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 2.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:46:22 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 2.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:46:23 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: edad]
+in APPPATH\Views\nomaño.php on line 2.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('nomaño', [], true)
+ 4 APPPATH\Controllers\Primero.php(31): view('nomaño')
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->form2()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:56:15 --> ErrorException: Undefined global variable $productos
+[Method: GET, Route: blog]
+in APPPATH\Controllers\Primero.php on line 69.
+ 1 APPPATH\Controllers\Primero.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined global variable $productos', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Controllers\\Primero.php', 69)
+ 2 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:56:42 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 1.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 4 APPPATH\Controllers\Primero.php(71): view('blog', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:56:43 --> Error: Call to undefined method CodeIgniter\View\View::extends()
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 1.
+ 1 SYSTEMPATH\View\View.php(238): include()
+ 2 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 4 APPPATH\Controllers\Primero.php(71): view('blog', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 7 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:57:00 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(71): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:57:38 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(71): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 14:57:39 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(71): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:11 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:12 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:13 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:13 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:13 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:13 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:14 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:14 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:14 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:01:14 --> ErrorException: foreach() argument must be of type array|object, null given
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 12.
+ 1 APPPATH\Views\blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argument must be of type array|object, null given', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 12)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(70): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-21 15:14:49 --> ErrorException: Undefined array key "descripcion"
+[Method: GET, Route: blog]
+in APPPATH\Views\blog.php on line 16.
+ 1 APPPATH\Views\blog.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripcion"', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php', 16)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\blog.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('blog', [], true)
+ 5 APPPATH\Controllers\Primero.php(102): view('blog', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->blog()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

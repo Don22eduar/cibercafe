@@ -1,0 +1,14 @@
+CRITICAL - 2026-03-25 16:37:36 --> ErrorException: Undefined variable $producto
+[Method: GET, Route: /]
+in APPPATH\Views\catalogo.php on line 14.
+ 1 APPPATH\Views\catalogo.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $producto', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\catalogo.php', 14)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\catalogo.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('catalogo', [], true)
+ 5 APPPATH\Controllers\Home.php(9): view('catalogo')
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

@@ -1,0 +1,80 @@
+CRITICAL - 2026-03-28 03:24:30 --> ErrorException: Undefined variable $datos
+[Method: GET, Route: hogar]
+in APPPATH\Views\hogar.php on line 11.
+ 1 APPPATH\Views\hogar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php', 11)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('hogar', [], true)
+ 5 APPPATH\Controllers\Primero.php(33): view('hogar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->hogar()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-28 03:24:38 --> ErrorException: Undefined variable $datos
+[Method: GET, Route: hogar]
+in APPPATH\Views\hogar.php on line 11.
+ 1 APPPATH\Views\hogar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php', 11)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('hogar', [], true)
+ 5 APPPATH\Controllers\Primero.php(33): view('hogar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->hogar()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-28 03:24:50 --> ErrorException: Undefined variable $datos
+[Method: GET, Route: hogar]
+in APPPATH\Views\hogar.php on line 11.
+ 1 APPPATH\Views\hogar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php', 11)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('hogar', [], true)
+ 5 APPPATH\Controllers\Primero.php(33): view('hogar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->hogar()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-28 03:25:36 --> ErrorException: Undefined variable $data
+[Method: GET, Route: hogar]
+in APPPATH\Views\hogar.php on line 11.
+ 1 APPPATH\Views\hogar.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php', 11)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('hogar', [], true)
+ 5 APPPATH\Controllers\Primero.php(33): view('hogar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->hogar()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-28 03:27:28 --> ErrorException: Undefined variable $data
+[Method: GET, Route: hogar]
+in APPPATH\Views\hogar.php on line 22.
+ 1 APPPATH\Views\hogar.php(22): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php', 22)
+ 2 SYSTEMPATH\View\View.php(238): include('C:\\xampp\\htdocs\\codeigniter4\\app\\Views\\hogar.php')
+ 3 SYSTEMPATH\View\View.php(241): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1250): CodeIgniter\View\View->render('hogar', [], true)
+ 5 APPPATH\Controllers\Primero.php(33): view('hogar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(951): App\Controllers\Primero->hogar()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Primero))
+ 8 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-03-28 03:27:45 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "' . base_url('imagenes"
+[Method: GET, Route: %27%20.%20base_url%28%27imagenes/%27%20.%20$producto%5B%27imagen%27%5D%29%20.%20%27]
+in SYSTEMPATH\Router\Router.php on line 768.
+ 1 SYSTEMPATH\Router\Router.php(219): CodeIgniter\Router\Router->checkDisallowedChars('\' . base_url(\'imagenes/\' . $producto[\'imagen\']) . \'')
+ 2 SYSTEMPATH\CodeIgniter.php(829): CodeIgniter\Router\Router->handle('\' . base_url(\'imagenes/\' . $producto[\'imagen\']) . \'')
+ 3 SYSTEMPATH\CodeIgniter.php(441): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
