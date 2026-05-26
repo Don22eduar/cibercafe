@@ -16,17 +16,16 @@
         background-color: #F9FAFB;
     }
 </style>
-    <nav class="navbar navbar-expand-lg" style="padding: 18px; background-color: #2d3436; color: #fff; font-size: 24px; font-weight: 700; font-family: Montserrat">
+    <nav class="navbar navbar-expand-lg" style="padding: 18px; background-color: #1A1D20; color: #fff; font-size: 24px; font-weight: 700; font-family: Montserrat">
         <div class="container-fluid">
-            <a href="<?= base_url('/') ?>" class="navbar-brand" style=" color: #fff; font-size: 26px; font-weight: bold;">CATALOGO DE PRODUCTOS</a>
+            <a href="<?= base_url('/') ?>" class="navbar-brand" style=" color: #fff; font-size: 26px; font-weight: bold;">CIBERCAFE CHAVEZ</a>
             <div class="dropdown ms-auto">
-                <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="background-color: #2980B9;">
-                    Articulos
+                <button class="btn btn-outline-light dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="background-color: #9D4EDD;">
+                    MENU
                 </button>
                 <ul class="dropdown-menu dropdown-menu-end">
-                    <li><a class="dropdown-item" href="<?= base_url('/hogar') ?>">HOGAR</a></li>
-                    <li><a class="dropdown-item" href="<?= base_url('/electro') ?>">ELECTRONICOS</a></li>
-                    <li><a class="dropdown-item" href="<?= base_url('/limpieza') ?>">LIMPIEZA</a></li>
+                    <li><a class="dropdown-item" href="<?= base_url('/hogar') ?>">COMPUTADORAS</a></li>
+                    <li><a class="dropdown-item" href="<?= base_url('/electro') ?>">TARIFAS</a></li>
                     <li><a class="dropdown-item" href="<?= base_url('/acercade') ?>">ACERCA DE</a></li>
                 </ul>
             </div>
@@ -38,7 +37,7 @@
         <?= $this->renderSection('content') ?>
     </div>
 </body>
-<footer style="font-family: Montserrat; padding: 8px; background-color: #2d3436; color: #fff; text-align: center; font-weight: bold; position: fixed; bottom: 0; width: 100%;">Rodrigo Ernesto Chavez Miranda</footer>
+<footer style="font-family: Montserrat; padding: 8px; background-color: #1A1D20; color: #fff; text-align: center; font-weight: bold; position: fixed; bottom: 0; width: 100%;">2026 CiberCafé Chávez. Todos los derechos reservados. CM202504 & CL202503</footer>
 
 
 </html>
