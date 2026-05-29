@@ -1,59 +1,121 @@
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+
+<!--author:starttemplate-->
+<!--reference site : starttemplate.com-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema de Eleccion de Representante de la Clase</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords"
+          content="unique login form,leamug login form,boostrap login form,responsive login form,free css html login form,download login form">
+    <meta name="author" content="leamug">
+    <title>Unique Login Form | Bootstrap Templates</title>
+    <link href="css/style.css" rel="stylesheet" id="style">
+    <!-- Bootstrap core Library -->
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+    <!-- Font Awesome-->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
-<section class="vh-100">
-  <div class="container-fluid">
+
+<!-- Page Content -->
+<div class="container" style= "" >
     <div class="row">
-      <div class="col-sm-6 text-black">
-
-        <div class="px-5 ms-xl-4">
-          <i class="fas fa-crow fa-2x me-3 pt-5 mt-xl-4" style="color: #709085;"></i>
-          <span class="h1 fw-bold mb-0">Ctrln Zone</span>
+        <div class="col-md-offset-2 col-md-4 text-center">
+            <h1 class='text-white'>Unique Login Form</h1>
+              <div class="form-login"></br>
+                <h4>Secure Login</h4>
+                </br>
+                <input type="text" id="userName" class="form-control input-sm chat-input" placeholder="username"/>
+                </br></br>
+                <input type="text" id="userPassword" class="form-control input-sm chat-input" placeholder="password"/>
+                </br></br>
+                <div class="wrapper">
+                        <span class="group-btn">
+                            <a href="#" class="btn btn-danger btn-md">login <i class="fa fa-sign-in"></i></a>
+                        </span>
+                </div>
+            </div>
         </div>
-         <?php if ($mensaje): ?>
-            <div class="alert alert-danger">
-                <?= $mensaje ?>
-            </div>
-        <?php endif ?>
-
-        <div class="d-flex align-items-center h-custom-2 px-5 ms-xl-4 mt-5 pt-5 pt-xl-0 mt-xl-n5">
-       
-          <form style="width: 23rem;" method="post" action="<?= base_url('/index.php/home/ingreso') ?>">
-
-            <h3 class="fw-normal mb-3 pb-3" style="letter-spacing: 1px;">Log in</h3>
-
-            <div data-mdb-input-init class="form-outline mb-4">
-              <input type="text" name="usuario" id="form2Example18" class="form-control form-control-lg" />
-              <label class="form-label" for="form2Example18">Email address</label>
-            </div>
-
-            <div data-mdb-input-init class="form-outline mb-4">
-              <input type="password" name="pass" id="form2Example28" class="form-control form-control-lg" />
-              <label class="form-label" for="form2Example28">Password</label>
-            </div>
-
-            <div class="pt-1 mb-4">
-              <input type="submit" class="btn btn-success" value="Login">
-            </div>
-           
-          </form>
-
-        </div>
-
-      </div>
-      <div class="col-sm-6 px-0 d-none d-sm-block">
-        <img src="https://images.pexels.com/photos/9072379/pexels-photo-9072379.jpeg?cs=srgb&dl=pexels-yankrukov-9072379.jpg&fm=jpg"
-          alt="Login image" class="w-100 vh-100" style="object-fit: cover; object-position: left;">
-      </div>
     </div>
-  </div>
-</section>
+    </br></br></br>
+    <!--footer-->
+    <div class="footer text-white text-center">
+        <p>© 2020 Unique Login Form. All rights reserved | Design by <a href="https://freecss.tech">Free Css</a></p>
+    </div>
+    <!--//footer-->
+</div>
+
+
+<style>
+  body {
+  background-image:url('https://i.redd.it/o8dlfk93azs31.jpg');
+  background-position:center;
+  background-size:cover;
+  
+  -webkit-font-smoothing: antialiased;
+  font: normal 14px Roboto,arial,sans-serif;
+  font-family: 'Dancing Script', cursive!important;
+}
+
+.container {
+    padding: 110px;
+   
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #ffffff!important;
+    opacity: 1; /* Firefox */
+    font-size:18px!important;
+}
+.form-login {
+    background-color: rgba(0,0,0,0.55);
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 15px;
+    border-color:#d2d2d2;
+    border-width: 5px;
+    color:white;
+    box-shadow:0 1px 0 #cfcfcf;
+  
+}
+.form-control{
+    background:transparent!important;
+    color:white!important;
+    font-size: 18px!important;
+}
+h1{
+    color:white!important;
+}
+h4 { 
+ border:0 solid #fff; 
+ border-bottom-width:1px;
+ padding-bottom:10px;
+ text-align: center;
+}
+
+.form-control {
+    border-radius: 10px;
+   
+}
+.text-white{
+    color: white!important;
+}
+.wrapper {
+    text-align: center;
+}
+.footer p{
+    font-size: 18px;
+}
+</style>
 </body>
 </html>
