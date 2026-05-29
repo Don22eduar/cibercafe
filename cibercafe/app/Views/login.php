@@ -15,7 +15,7 @@
 
         <div class="px-5 ms-xl-4">
           <i class="fas fa-crow fa-2x me-3 pt-5 mt-xl-4" style="color: #709085;"></i>
-          <span class="h1 fw-bold mb-0">Logo</span>
+          <span class="h1 fw-bold mb-0">Ctrln Zone</span>
         </div>
          <?php if ($mensaje): ?>
             <div class="alert alert-danger">
@@ -49,7 +49,7 @@
 
       </div>
       <div class="col-sm-6 px-0 d-none d-sm-block">
-        <img src="https://media.istockphoto.com/id/2043823329/es/foto/concepto-de-ciberseguridad-de-la-red-de-internet-protecci%C3%B3n-de-la-privacidad-de-los-datos.jpg?b=1&s=612x612&w=0&k=20&c=4XIDROI5PoY6FtLniJep9wtDIp44XiSVhuItJLDsSyE="
+        <img src="https://images.pexels.com/photos/9072379/pexels-photo-9072379.jpeg?cs=srgb&dl=pexels-yankrukov-9072379.jpg&fm=jpg"
           alt="Login image" class="w-100 vh-100" style="object-fit: cover; object-position: left;">
       </div>
     </div>
